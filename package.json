@@ -1,0 +1,28 @@
+{
+  "name": "bandwidth-neopixels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bandwidth-neopixels.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Vorthman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "tomato-router-bandwidth": "^1.0.2"
+  },"keywords": [
+    "tomato",
+    "router",
+    "bandwidth",
+    "download",
+    "upload",
+    "speed",
+    "realtime",
+    "monitor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robertvorthman/bandwidth-neopixels.git"
+  }
+}
